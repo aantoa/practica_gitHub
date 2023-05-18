@@ -1,1 +1,1 @@
-console.log("Amo la inka kola")
+console.log("Me encanta la cocacola, tiene un sabor como ninguna otra y refresca en estos dias de calor")
