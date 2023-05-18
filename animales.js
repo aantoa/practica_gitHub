@@ -1,1 +1,1 @@
-console.log("Soy pet lover")
+console.log("El perro es el mejor")
