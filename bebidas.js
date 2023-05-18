@@ -1,0 +1,1 @@
+console.log("Amo la inka kola")
